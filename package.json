@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongodb": "^3.6.3",
     "next": "10.0.3",
+    "npx": "^10.2.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "semver": "^7.3.2",
+    "React": "latest"
   }
 }
